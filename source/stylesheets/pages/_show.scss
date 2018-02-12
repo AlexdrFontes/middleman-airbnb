@@ -1,0 +1,79 @@
+.header-flat{
+  background-color:White;
+  }
+  .header-flat-owner {
+    padding: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+}
+.header-flat-details {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 30px;
+        padding-left: 30px;
+    padding-left: 0;
+}
+.header-flat h1 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.header-flat p {
+    font-weight: normal;
+    font-size: 14px;
+    color: #777777;
+}
+.header-flat form {
+    margin: 20px 0;
+        margin-right: 0px;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+#flat-description h2 {
+    font-size: 18px;
+    color: #333333;
+}
+h2, .h2 {
+    font-size: 38px;
+}
+
+.col-sm-2 {
+    width: 16.66666667%;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 12.5px;
+}
+
+.col-sm-4 {
+    width: 33.33333333%;
+}
+#flat-data {
+    font-weight: normal;
+    font-size: 12px;
+    color: #797373;
+}
+#flat-description {
+    font-size: 14px;
+    color: #000000;
+}
+body {
+    font-family: "Open Sans", "Helvetica", "sans-serif";
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #333333;
+}
